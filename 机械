@@ -1,0 +1,1 @@
+python svd.py --prompt "A heavy-duty wedge lock mechanism engaging with hydraulic pressure, industrial close-up, 8k" --output wedge_lock.mp4  
